@@ -27,3 +27,8 @@
         margin-right: auto;
         width: 25%;
     }
+
+    .summary{
+        text-align: justify;
+        text-justify: inter-word;
+    }
