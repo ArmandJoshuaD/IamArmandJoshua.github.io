@@ -1,5 +1,5 @@
     body {
-        font-family: Helvetica;
+        font-family: Arial, Helvetica;
         background-color: #f4f4f4;
         margin: 0;
         padding: 0;
@@ -29,7 +29,7 @@
     }
 
     .summary{
-        font-family: Helvetica;
+        font-family: Arial, Helvetica;
         text-indent: 50px;
         text-align: justify;
         text-justify: inter-word;
