@@ -24,5 +24,11 @@
     .Profile-Pic{
         height: 25%;
         width: 25%;
-        align: middle;
+    }
+
+    .center{
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 50%;
     }
