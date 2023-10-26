@@ -20,11 +20,8 @@
         background-color: #fff;
         box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
     }
-    .project {
-        margin-bottom: 20px;
-    }
 
-    img[src="ArmandJoshuaD.jpg"] {
+    .Profile-Pic{
         height: 50%;
         width: 50%;
         vertical-align: middle;
